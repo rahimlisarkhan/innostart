@@ -1057,11 +1057,11 @@ button:focus {
 
 .mu-sponsors-single {
   background: #eee;
-  display: inline;
-  float: left;
+  /* display: inline;
+  float: left; */
   margin-top: 10px;
   margin-bottom: 15px;
-  width: 100%;
+  /* width: 100%; */
 }
 
 /*--------------------*/
@@ -1261,7 +1261,7 @@ button:focus {
 /*--------------------*/
 
 #mu-footer {
-  background-color: #f8f8f8;
+  background-color: #4141af;
   display: inline;
   float: left;
   width: 100%;
