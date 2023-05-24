@@ -1261,7 +1261,7 @@ button:focus {
 /*--------------------*/
 
 #mu-footer {
-  background-color: #4141af;
+  background-color: #4141af !important;
   display: inline;
   float: left;
   width: 100%;
